@@ -1,4 +1,4 @@
-Files are made to be printed in SLS nylon for the Formlabs Fuse 1 printer. Tolernaces may need to adjusted for other printers.
+Files are made to be printed in SLS nylon for the Formlabs Fuse 1 printer. Tolerances may need to adjusted for other printers.
 
 You will also need three M3 nuts and flat head M3 screws between 7-9 mm long (10mm will work if not tightened).
 
